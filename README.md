@@ -67,7 +67,8 @@ Industry veteran with over **20 years** of experience in software engineering an
       </ul>
     </td>
   </tr>  
-</table> <p align="center">
+</table> 
+<p align="center">
 <img src="assets/images/lotus.png" width="45%" alt="Lotus Illustration" />
 <img src="assets/images/lotus.jpg" width="45%" alt="Lotus Photography" />
 </p>
